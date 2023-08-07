@@ -1,0 +1,38 @@
+Started by user [8mha:////4LiT27tlP8dRVPYK8DACXzrd9pCZs291TA3b9qH8ANS7AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgZB/dLi1CL9kozMgoLU4vLE3EoAKsIdpsYAAAA=[0mUPPARA THIPPESWAMY
+Running as SYSTEM
+Building in workspace C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1
+[Free1] $ cmd /c call C:\Users\THIPPE~1\AppData\Local\Temp\jenkins4327835220506121383.bat
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1>java -version 
+java version "1.8.0_381"
+Java(TM) SE Runtime Environment (build 1.8.0_381-b09)
+Java HotSpot(TM) Client VM (build 25.381-b09, mixed mode, sharing)
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1>cd ../../../../../ 
+
+C:\>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 582C-1331
+
+ Directory of C:\
+
+31-03-2023  11:19    <DIR>          FrontEndTechnology
+29-06-2023  12:28    <DIR>          GIT_GITHUB
+17-07-2023  16:19    <DIR>          Intel
+07-08-2023  10:47    <DIR>          Jenkins
+03-07-2023  11:36    <DIR>          linux_practice_commands
+07-05-2022  10:54    <DIR>          PerfLogs
+12-07-2023  12:11    <DIR>          Program Files
+02-08-2023  17:57    <DIR>          Program Files (x86)
+28-06-2023  12:27    <DIR>          python_exercises
+02-08-2023  11:00    <DIR>          python_topics
+04-04-2023  09:50    <DIR>          Temp
+26-06-2023  10:25    <DIR>          Users
+29-03-2023  14:22    <DIR>          virtualbox
+11-03-2023  15:35    <DIR>          webpageactivities
+01-08-2023  11:25    <DIR>          Windows
+               0 File(s)              0 bytes
+              15 Dir(s)  386,951,229,440 bytes free
+
+C:\>exit 0 
+Finished: SUCCESS

@@ -1,0 +1,23 @@
+Started by user [8mha:////4LiT27tlP8dRVPYK8DACXzrd9pCZs291TA3b9qH8ANS7AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgZB/dLi1CL9kozMgoLU4vLE3EoAKsIdpsYAAAA=[0mUPPARA THIPPESWAMY
+Running as SYSTEM
+Building in workspace C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1
+[Free1] $ cmd /c call C:\Users\THIPPE~1\AppData\Local\Temp\jenkins4454616939651313972.bat
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1>java -version 
+java version "1.8.0_381"
+Java(TM) SE Runtime Environment (build 1.8.0_381-b09)
+Java HotSpot(TM) Client VM (build 25.381-b09, mixed mode, sharing)
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 582C-1331
+
+ Directory of C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1
+
+07-08-2023  15:35    <DIR>          .
+07-08-2023  17:19    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  386,971,631,616 bytes free
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1>exit 0 
+Finished: SUCCESS
