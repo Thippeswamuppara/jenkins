@@ -26,7 +26,7 @@
     </org.jenkinsci.plugins.displayurlapi.user.PreferredProviderUserProperty>
     <hudson.model.PaneStatusProperties>
       <collapsed>
-        <string>buildQueue</string>
+        <string>executors</string>
       </collapsed>
     </hudson.model.PaneStatusProperties>
     <jenkins.security.seed.UserSeedProperty>

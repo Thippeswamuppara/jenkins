@@ -1,0 +1,20 @@
+Started by user [8mha:////4LiT27tlP8dRVPYK8DACXzrd9pCZs291TA3b9qH8ANS7AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgZB/dLi1CL9kozMgoLU4vLE3EoAKsIdpsYAAAA=[0mUPPARA THIPPESWAMY
+Running as SYSTEM
+Building in workspace C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1
+[Free1] $ cmd /c call C:\Users\THIPPE~1\AppData\Local\Temp\jenkins7637983641107449962.bat
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1>java -version 
+java version "1.8.0_381"
+Java(TM) SE Runtime Environment (build 1.8.0_381-b09)
+Java HotSpot(TM) Client VM (build 25.381-b09, mixed mode, sharing)
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\Free1>cd ../../../../../ 
+
+C:\>cd C:\Users\Thippeswamy U-3061\PycharmProjects\pythonProject\Exercies 
+
+C:\Users\Thippeswamy U-3061\PycharmProjects\pythonProject\Exercies>python combination.py 
+[['banana', 'banana', 'banana'], ['papaya', 'papaya', 'papaya']]
+
+C:\Users\Thippeswamy U-3061\PycharmProjects\pythonProject\Exercies>exit 0 
+Triggering a new build of [8mha:////4IfWwl3UGJ0HGnIFcH/FDgAHSSAvsk9ECJwRHxnEXqD2AAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH23otTU4JLKnNSCovwsfQDVscxRyAAAAA==[0mFreeStyleproj
+Finished: SUCCESS

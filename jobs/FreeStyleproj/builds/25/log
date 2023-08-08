@@ -1,0 +1,13 @@
+Started by upstream project "[8mha:////4IaEb3blrOnVQdIxMPAhYHwfH1mS5vSNaL56taBT042aAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JH23otRUQ30ApminNMAAAAA=[0mFree1" build number [8mha:////4H7uibtTFL14m9QtEhVWZaLptgraGUeNP2yAyq+asNqZAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZe/az8JH23otRUQ31DSwAabOW7wgAAAA==[0m19
+originally caused by:
+ Started by user [8mha:////4LiT27tlP8dRVPYK8DACXzrd9pCZs291TA3b9qH8ANS7AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgZB/dLi1CL9kozMgoLU4vLE3EoAKsIdpsYAAAA=[0mUPPARA THIPPESWAMY
+Running as SYSTEM
+Building in workspace C:\Users\Thippeswamy U-3061\.jenkins\workspace\FreeStyleproj
+[FreeStyleproj] $ cmd /c call C:\Users\THIPPE~1\AppData\Local\Temp\jenkins4764127514046335808.bat
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\FreeStyleproj>cd tippu 
+The system cannot find the path specified.
+
+C:\Users\Thippeswamy U-3061\.jenkins\workspace\FreeStyleproj>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE
